@@ -16,8 +16,8 @@ This is the Live-Chat-App, a real-time chat application built with ReactJs, Node
 $ git clone https://github.com/mateusdayrell/live-chat-app.git
 
 # Access the project folder
-$ cd backend (Backend)
-$ cd web (Web)
+$ cd live-chat-app\backend (Backend)
+$ cd live-chat-app\web (Web)
 
 # Install the dependencies
 $ npm install
