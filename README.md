@@ -30,3 +30,13 @@ $ cp .env.example .env.local (Web)
 $ npm run dev (Backend)
 $ npm start (Web)
 ```
+
+## Screenshots
+
+![gif](https://github.com/mateusdayrell/live-chat-app/blob/main/web/src/assets/4.gif)
+
+![1](https://github.com/mateusdayrell/live-chat-app/blob/main/web/src/assets/1.png)
+
+![2](https://github.com/mateusdayrell/live-chat-app/blob/main/web/src/assets/2.png)
+
+![3](https://github.com/mateusdayrell/live-chat-app/blob/main/web/src/assets/3.png)
