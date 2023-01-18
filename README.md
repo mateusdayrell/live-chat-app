@@ -33,7 +33,7 @@ $ npm start (Web)
 
 ## Screenshots
 
-![gif](https://github.com/mateusdayrell/live-chat-app/blob/main/web/src/assets/4.gif)
+![gif](https://github.com/mateusdayrell/live-chat-app/blob/main/web/src/assets/5.gif)
 
 ![1](https://github.com/mateusdayrell/live-chat-app/blob/main/web/src/assets/1.png)
 
